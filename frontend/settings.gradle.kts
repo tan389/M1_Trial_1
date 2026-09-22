@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CPEN321 Application"
+rootProject.name = "Project M1"
 include(":app")
